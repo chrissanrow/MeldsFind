@@ -4,9 +4,11 @@
 
 # Contents
 
-[Why](##Why)
-  [Features](###Features)
-[Install](##Install)
+- [Melds Find](#melds-find)
+- [Contents](#contents)
+  - [Why](#why)
+    - [Features](#features)
+  - [Install](#install)
 
 ## Why
 
